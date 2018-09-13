@@ -51,6 +51,6 @@ fi
 # Add zsh aliases
 if [ -f ~/.zshrc-aliases ]; then
     source ~/.zshrc-aliases
-if
+fi
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
